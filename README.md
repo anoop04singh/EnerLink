@@ -24,6 +24,15 @@ For demonstration purposes, the generated tokens are stored in a wallet, where t
 
 We have developed a simple smart contract on the Aptos devnet that manages these token actions, illustrating the concept of tokenizing energy. While a fully integrated IoT system is not yet implemented, this prototype gives a visual understanding of how decentralized energy exchange and smart meter integration would work in the future.
 
+## Deployed on Vercel
+
+The project is live and can be accessed at the following link:
+
+[![Deployed on Vercel](https://img.shields.io/badge/Vercel-Deployed%20on%20Vercel-black?logo=vercel&style=for-the-badge)](https://ener-link.vercel.app)
+
+Visit the deployed application here: [ener-link.vercel.app](https://ener-link.vercel.app)
+
+
 Future Vision and Scope
 -----------------------
 
