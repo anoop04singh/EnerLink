@@ -1,4 +1,4 @@
-EnerLink - Decentralized Energy Grid
+EnerLink - Tokenizing Energy
 ====================================
 
 **Contract Address**: `0xdb0538df56fa2a4e262fccf4d0c6a4a0aa4c9ed713d1b3b3280dbeb12becf29a`\
