@@ -36,3 +36,140 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #F4F8FB;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+header {
+  background-color: #2F4858;
+  padding: 20px;
+  color: white;
+  text-align: center;
+  font-size: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-family: 'The Seasons', serif;
+}
+
+button {
+  background-color: #FC7A57;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 6px;
+  font-size: 1rem;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #E84855;
+}
+
+.card {
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  margin-top: 1rem;
+}
+
+.card-header {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.input-field {
+  width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  border-radius: 6px;
+  border: 1px solid #C7EAE4;
+}
+
+.error-message {
+  color: #E84855;
+  background-color: #FDECEA;
+  padding: 12px;
+  border-radius: 6px;
+  margin-top: 1rem;
+}
+
+.activity-logs {
+  margin-top: 2rem;
+  max-height: 300px;
+  overflow-y: auto;
+  padding: 1rem;
+  background-color: #fff;
+  border: 1px solid #C7EAE4;
+  border-radius: 8px;
+}
+
+.activity-logs .log-entry {
+  margin-bottom: 8px;
+  font-size: 0.9rem;
+  color: #555;
+}
+/* App.css */
+
+.app-container {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 8px;
+  background-color: #f7f7f7;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+
+input[type="text"], input[type="password"] {
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.activity-logs {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #e9f1f5;
+  border-radius: 5px;
+}
+
