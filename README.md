@@ -11,6 +11,11 @@ Project Overview
 
 EnerLink is a decentralized platform on the Aptos blockchain that aims to enable peer-to-peer energy trading, incentivize green energy production, and promote sustainable energy use. The platform tokenizes energy generated from IoT-enabled smart meters into tradeable and burnable tokens, creating a flexible and decentralized energy market. By putting energy data onto the blockchain, EnerLink demonstrates a sustainable model for decentralized energy production and consumption.
 
+Why this on Aptos?
+----------------
+Aptos proves to be a scalable, fast and efficient chain. Features like parallel execution makes it very suitable for these types of DePIN projects.
+
+
 Basic Visualization of the Ecosystem
 ------------------------------------
 
