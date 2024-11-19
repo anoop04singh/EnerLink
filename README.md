@@ -4,6 +4,8 @@ EnerLink - Tokenizing Energy
 **Contract Address**: `0xdb0538df56fa2a4e262fccf4d0c6a4a0aa4c9ed713d1b3b3280dbeb12becf29a`\
 [View Pitch Deck](https://www.canva.com/design/DAGVJcYX5MM/hx1je2wHqaqpCh6-3sVnRA/view?utm_content=DAGVJcYX5MM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h31e56aab16)
 
+[Explanation thread](https://x.com/Singh04A/status/1858576620899996123)
+
 Project Overview
 ----------------
 
